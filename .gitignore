@@ -1,0 +1,6 @@
+env/
+
+**/__pycache__**
+JWTAUTH/accounts/migrations/__init__.py
+JWTAUTH/accounts/migrations/
+JWTAUTH/db.sqlite3
